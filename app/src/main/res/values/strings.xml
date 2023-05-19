@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YT-Playlist Length</string>
+    <string name="youtube_playlist_url">Youtube playlist url</string>
+    <string name="API_KEY"></string>
+</resources>
